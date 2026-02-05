@@ -1,4 +1,4 @@
-package org.example;
+package io.github.lanternbearer.cvgenerator;
 
 import com.lowagie.text.*;
 import com.lowagie.text.pdf.*;
